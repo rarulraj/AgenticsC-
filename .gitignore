@@ -1,0 +1,29 @@
+# Build directories
+build/
+build-*/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+
+# Ninja files
+*.ninja
+.ninja_deps
+.ninja_log
+
+# Compiled objects
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# IDE / OS
+.DS_Store
+.vscode/
+*.code-workspace
+
+
